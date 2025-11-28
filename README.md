@@ -63,9 +63,6 @@ Manual process of keeping student records, book records, account details, managi
 - Back End - **PHP**
 - Database - **MySql**
 
-## Requirements
-
-[![PHP](https://img.shields.io/static/v1.svg?label=Source%20Code&message=php&logo=php&style=social)](https://vinitshahdeo.github.io/Library-Management-System/)
 
 The source code of this project is written in **PHP**. So, you'll require **WAMP/XAMPP/MAMP** to run this project.
 
